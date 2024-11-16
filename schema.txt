@@ -1,0 +1,3 @@
+results(resultID, raceID;races, driverID;drivers,position)
+races(raceID,name,year)
+drivers(driverID,name,drivingNo)
